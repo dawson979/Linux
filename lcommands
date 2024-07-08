@@ -1,0 +1,11 @@
+pwd    	> prsent/current directory
+ls      > list of files ( including directories) 
+ls -s	> list of files with count
+ls -a 	> list of files including hidden files 
+touch 	> create a new file 
+vi 	> Create a file and editor.
+cat 	> view the contents of the file 
+rm 	> remove file 
+cd 	> change directory / cd .. ( back to the immediate directory) .  cd ../.. ( goes two paths back) 
+
+
