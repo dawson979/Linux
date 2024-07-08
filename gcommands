@@ -1,0 +1,11 @@
+git status          - status of the git repo
+git add .           - add all files to the index tree 
+git add <filename>  - adds specific file to the index tree.
+git commit -m       - commits the files added to the index tree ( advised to add commit message with in "")
+git log             - commit details 
+git log -oneline    - commit details in oneline (each)
+git push            - push the file to the remote repo from local system
+git pull            - pull the file to the local system from remote
+git branch           - gives list of braches 
+git branch <branchname) - create a new branch 
+git checkout <branchname) - switches to that specific branch
