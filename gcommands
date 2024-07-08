@@ -1,3 +1,6 @@
+This file is created in local system 
+
+
 git status          - status of the git repo
 git add .           - add all files to the index tree 
 git add <filename>  - adds specific file to the index tree.
