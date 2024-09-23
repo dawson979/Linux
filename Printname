@@ -3,6 +3,6 @@
 int main()
 {
     // print name
-        printf("Name : GeeksforGeeks");
+        printf("Name : Devops");
 	    return 0;
 	    }
